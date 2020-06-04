@@ -1,0 +1,12 @@
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.csprojAssemblyReference.cache
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.AssemblyInfoInputs.cache
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.AssemblyInfo.cs
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.csproj.CoreCompileInputs.cache
+/Users/rgrunest/Developer/c#/messingAround/messingAround/bin/Debug/netcoreapp3.1/messingAround.deps.json
+/Users/rgrunest/Developer/c#/messingAround/messingAround/bin/Debug/netcoreapp3.1/messingAround.runtimeconfig.json
+/Users/rgrunest/Developer/c#/messingAround/messingAround/bin/Debug/netcoreapp3.1/messingAround.runtimeconfig.dev.json
+/Users/rgrunest/Developer/c#/messingAround/messingAround/bin/Debug/netcoreapp3.1/messingAround.dll
+/Users/rgrunest/Developer/c#/messingAround/messingAround/bin/Debug/netcoreapp3.1/messingAround.pdb
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.dll
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.pdb
+/Users/rgrunest/Developer/c#/messingAround/messingAround/obj/Debug/netcoreapp3.1/messingAround.genruntimeconfig.cache
